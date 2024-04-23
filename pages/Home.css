@@ -2,7 +2,7 @@ body {
   background: linear-gradient(10deg, #8e44ad, #2980b9);
   height: 97.9vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.612), rgba(0, 0, 0, 0.705)),
-    url("../imgs/msg1660826174-3143.jpg");
+    url("./imgs/msg1660826174-3143.jpg");
 
   background-size: cover;
   background-position: center;
