@@ -36,7 +36,7 @@ function showData() {
                 </tr>
                 `;
   }
-  document.getElementById("body").innerHTML = table;
+  document.getElementById("tbody").innerHTML = table;
   let btndeleteAll = document.getElementById("deleteAll");
   if (datapro.length > 0) {
     btndeleteAll.innerHTML = `<button onclick="deleteAll()"class="btn2">DELETE ALL (${datapro.length})</button>`;
